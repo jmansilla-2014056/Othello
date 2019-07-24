@@ -1,0 +1,112 @@
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+c:\users\admin\documents\visual studio 2012\Projects\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+I:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+I:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+I:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+I:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+I:\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+I:\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+I:\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+I:\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+I:\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+I:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+G:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+G:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+G:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+G:\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+G:\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+G:\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+G:\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+G:\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+G:\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+G:\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+C:\Users\Informatica\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+C:\Users\admin\Desktop\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+C:\Users\Informatica\Desktop\Nueva carpeta\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe.config
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.exe
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.xml
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.pdb
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\bin\Debug\Othello2014056.exe
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\bin\Debug\Othello2014056.pdb
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\bin\Debug\Othello2014056.xml
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Ficha.baml
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Ficha.g.vb
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\MainWindow.g.vb
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Application.g.vb
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056_MarkupCompile.cache
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.g.resources
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.Resources.resources
+C:\Users\admin\Desktop\gh\Othello2014056\Othello2014056\obj\Debug\Othello2014056.vbproj.GenerateResource.Cache
